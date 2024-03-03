@@ -14,7 +14,7 @@ This chatbot can:
 
 ## Dependencies
 
-Google Gemini Pro: Large Language Model for generating responses (https://deepmind.google/technologies/gemini/#introduction)
+Google Gemini Pro: Large Language Model for generating responses - https://deepmind.google/technologies/gemini/#introduction 
 
 ## Note:
-To run the script, you would need an API Key, which you can generate here (https://makersuite.google.com/app/apikey).
+To run the script, you would need an API Key, which you can generate here - https://makersuite.google.com/app/apikey
